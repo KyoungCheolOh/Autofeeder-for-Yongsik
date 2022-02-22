@@ -6,9 +6,9 @@ Make a autofeeder by using Arduino
 Model
 
 
-Arduino - buzzer
-        - battery
-        - servo motor
-        - wireless controller
-        - Plastic bottle and something that can support the bottle (feed container)
-        - 
+Arduino \n- buzzer
+        \n- battery
+        \n- servo motor
+        \n- wireless controller
+        \n- Plastic bottle and something that can support the bottle (feed container)
+        \n- 
